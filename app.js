@@ -1,10 +1,10 @@
 // for start
 
-// 1-masala
-// let n = Number(prompt("Son kiriting"));
-// for (i = 1; i <= n; i++) {
-//   console.log(i);
-// }
+1 - masala;
+let n = Number(prompt("Son kiriting"));
+for (i = 1; i <= n; i++) {
+  console.log(i);
+}
 
 // 2-masala
 
