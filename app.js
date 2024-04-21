@@ -1,10 +1,10 @@
 // for start
 
 // 1-masala
-let n = Number(prompt("Son kiriting"));
-for (i = 1; i <= n; i++) {
-  console.log(i);
-}
+// let n = Number(prompt("Son kiriting"));
+// for (i = 1; i <= n; i++) {
+//   console.log(i);
+// }
 
 // 2-masala
 
@@ -204,7 +204,7 @@ for (i = 1; i <= n; i++) {
 // let num2 = Number(prompt("Son kiriting"));
 
 // if (num1 != num2) {
-//   alert(`${num1 + num2}, ${num1 + num2}`);
+//   alert(`a=${num1 + num2}, b=${num1 + num2}`);
 // } else {
 //   alert(`0 , 0 `);
 // }
