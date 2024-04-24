@@ -2,11 +2,11 @@
 
 // 1-masala
 
-// let n = +prompt("n son kiriting");
-// let k = +prompt("k son kiriting");
-// for (let i = 1; i <= n; i++) {
-//   console.log(k);
-// }
+let n = +prompt("n son kiriting");
+let k = +prompt("k son kiriting");
+for (let i = 1; i <= n; i++) {
+  console.log(k);
+}
 
 // 2-masala
 
